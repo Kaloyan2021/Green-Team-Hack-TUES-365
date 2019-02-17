@@ -1,2 +1,2 @@
-# Hack TUES 365
+# HackTUES^365
 ## Green Team
